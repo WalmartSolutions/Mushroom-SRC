@@ -29,3 +29,5 @@ Config From Discord
 ![image](https://github.com/WalmartSolutions/Mushroom-SRC/assets/166547117/9bd23a24-1ba1-41dd-9729-dc4adb9f15da)
 
 # womp womp
+Credits:
+ube / dataplugs - trolling, leaking, king ass nigga
