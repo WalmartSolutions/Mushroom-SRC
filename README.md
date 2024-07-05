@@ -21,6 +21,9 @@ Config From Discord
 
 # how do you get backdoored this hard
 
+![image](https://github.com/WalmartSolutions/Mushroom-SRC/assets/166547117/948efef5-824a-4f81-a9bb-3a9b326865cb)
+
+
 # anotha day anotha win for ube
 
 ![image](https://github.com/WalmartSolutions/Mushroom-SRC/assets/166547117/9bd23a24-1ba1-41dd-9729-dc4adb9f15da)
