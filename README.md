@@ -15,7 +15,7 @@ https://github.com/WalmartSolutions/Mushroom-SRC/assets/166547117/b76263c2-cb58-
 # Mushroom-SRC
 
 # Mushroomer.top
-This client has history of autistic developers, retards in their discord, saying i rat and skid, the list goes on, i cracked this cheat a while ago because i use their shitty native system to load a classdumper and deobfed their entire shit, i see this client having no future at all, so here is the src that is from their github, latest, the code is shit, and the protection is worse, please never buy this shit. 
+This client has history of bad developers, saying i rat and skid, the list goes on, i cracked this cheat a while ago because i use their native system to load a classdumper and deobfed their entire client, i see this client having no future at all, so here is the src that is from their github, latest, the code is ass, and the protection is worse, please never buy this. 
 
 
 # Gui .bind [cgui]
@@ -25,7 +25,7 @@ This client has history of autistic developers, retards in their discord, saying
 # https://cdn.discordapp.com/attachments/1234323756919558226/1256466937861640212/hypixelnoslowyay.mushroom
 Config From Discord
 
-# Hall Of Autism
+# HOA
 
 ![image](https://github.com/WalmartSolutions/Mushroom-SRC/assets/166547117/f99d8500-3ef4-472b-8949-b8b34dfeb799)
 ![image](https://github.com/WalmartSolutions/Mushroom-SRC/assets/166547117/c6c16aa0-0627-48e4-a598-e8ebd4924996)
@@ -44,4 +44,4 @@ Config From Discord
 
 # womp womp
 Credits:
-ube / dataplugs - trolling, leaking, king ass nigga
+ube / dataplugs - trolling, leaking, king
